@@ -14,7 +14,7 @@ AuthModifier 是一个为 Caddy v2 设计的自定义 HTTP 处理器插件，它
 由于 AuthModifier 是一个自定义插件，您需要从源码编译 Caddy 并包含该插件。您可以使用 `xcaddy` 工具来简化这个过程：
 
 ```bash
-xcaddy build --with github.com/coulsontl/auth-modifier
+xcaddy build --with github.com/coulsonpl/auth-modifier
 ```
 
 ### Caddyfile 配置
