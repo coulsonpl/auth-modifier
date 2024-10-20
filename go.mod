@@ -1,4 +1,4 @@
-module github.com/coulsontl/auth-modifier
+module github.com/coulsonpl/auth-modifier
 
 go 1.14
 
